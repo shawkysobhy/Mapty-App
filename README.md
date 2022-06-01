@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://incandescent-pavlova-0b3236.netlify.app/" color="white">
+    <a href="https://incandescent-pavlova-0b3236.netlify.app/" color="white" target="_blanck">
       Live
     </a>
   <span> | </span> 
